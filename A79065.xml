@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties resolution concerning, Robert Earl of Warwicke, Lord Admirall of His Majesties navie royall, wherein is declared the kings full resolution and intention concerning his navie, now lying upon the downs. With the Earl of Warwicks declaration to both Houses of Parliament, and the oath taken by all his captains, lieutenants, and other inferiour officers, under his command, belonging to the fleet. Also the proceedings of the Earl of Warwicke and Sir Iohn Pennington, lying neer to the said Earl with a great number of cavaleers near the downs. Ordered, that this be forthwith published in print, John Brown, Cler. Parl. Whereunto is annexed, exceeding joyfull newes from Ireland, being the copy of a letter read in the House of Commons on Saturday last, Iuly the 9. Ordered that this be printed and published. Hen. Elsing. Cler. Par. Com. D.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79065</idno>
+            <idno type="STC">Wing C2748</idno>
+            <idno type="STC">Thomason E154_35</idno>
+            <idno type="STC">ESTC R1919</idno>
+            <idno type="EEBO-CITATION">99860600</idno>
+            <idno type="PROQUEST">99860600</idno>
+            <idno type="VID">156838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156838)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties resolution concerning, Robert Earl of Warwicke, Lord Admirall of His Majesties navie royall, wherein is declared the kings full resolution and intention concerning his navie, now lying upon the downs. With the Earl of Warwicks declaration to both Houses of Parliament, and the oath taken by all his captains, lieutenants, and other inferiour officers, under his command, belonging to the fleet. Also the proceedings of the Earl of Warwicke and Sir Iohn Pennington, lying neer to the said Earl with a great number of cavaleers near the downs. Ordered, that this be forthwith published in print, John Brown, Cler. Parl. Whereunto is annexed, exceeding joyfull newes from Ireland, being the copy of a letter read in the House of Commons on Saturday last, Iuly the 9. Ordered that this be printed and published. Hen. Elsing. Cler. Par. Com. D.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Smith,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>July. 12 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from STC.</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penington, John, --  Sir, 1568?-1646.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156838:1"/>
+            <pb facs="tcp:156838:1" rendition="simple:additions"/>
+            <p>THE KINGS MAIESTIES RESOLVTION CONCERNING, <hi>ROBERT</hi> Earl of <hi>Warwicke,</hi> Lord Admirall of His Majeſties Navie Royall, Wherein is Declared the Kings full Reſolution and Intention concerning his Navie, <hi>now lying upon the Downs.</hi>
+            </p>
+            <p>With the Earl of <hi>Warwicks</hi> Declaration to both Houſes of PARLIAMENT, and the Oath taken by all his Captains, Lieutenants, and other Inferiour Officers, under his Command, belonging to the fleet.</p>
+            <p>Alſo the Proceedings of the Earl of <hi>Warwicke</hi> and Sir <hi>Iohn Pennington,</hi> lying neer to the ſaid Earl with a great Number of Cavaleers near the <hi>Downs.</hi>
+            </p>
+            <p>
+               <hi>Ordered, that this be forthwith publiſhed in Print,</hi> JOHN BROWN, Cler. Parl.</p>
+            <p>Wherunto is annexed, exceeding joyfull Newes from <hi>Ireland,</hi> being the Copy of a Letter read in the Houſe of Commons on Saturday laſt, <hi>Iuly the</hi> 9.</p>
+            <p>
+               <hi>Ordered that this be Printed and published.</hi> Hen. Elſing. Cler. Parl. Com. D.</p>
+            <p>Printed for J. SMITH July. 12 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156838:2"/>
+            <pb facs="tcp:156838:2"/>
+            <head>THE KINGS MAIESTIES RESOLUTION <hi>Concerning the Earle of WARWICK.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He differences be<g ref="char:EOLhyphen"/>twixt His Royall Majeſtie and the high Court of <hi>Parliament,</hi> are apparently <hi>known</hi> and made manifeſt; inſomuch, that the Subject is ſo vehemently diſtracted, that the differences betwixt the Head and the Body, are not, nor will not be ſuddainly brought to an end, or full period; His Majeſtie ſtandeth for his Prerogative, and the Parliament for their priviledges, two great matters now in diſſent between
+<pb facs="tcp:156838:3"/>His Majeſty and the Parliament, buſineſ<g ref="char:EOLhyphen"/>ſes of no little Conſequence: yet this is not all the Controverſie which is betwixt the King and Parliament, but the Lawes and Liberties of the Subject is in great diſſent betwixt His Royall Majeſty and the Honourable Court of Parliament, and the ſubject is in a great perplexity, by rea<g ref="char:EOLhyphen"/>ſon of the differences now in contention, not knowing how to obey the Preroga<g ref="char:EOLhyphen"/>tive nor priviledges, the prerogative ſtan<g ref="char:EOLhyphen"/>ding for the Honour and Dignity of His Royall perſon, the priviledge for the Li<g ref="char:EOLhyphen"/>berty and Freedom of the Subject.</p>
+            <p>But the placing of Officers by the Ho<g ref="char:EOLhyphen"/>nourable Court of <hi>Parliament,</hi> without the conſent of His Majeſty, hath been the Cauſe of many Diſtempers ariſing from his Majeſties Royall Breaſt, all which be<g ref="char:EOLhyphen"/>ing for the good and ſafety of the whole Kingdome, by reaſon of the great danger this Kingdom were in, and the great haz<g ref="char:EOLhyphen"/>zard of ruine that were like to befall this Nation, had not they out of their judici<g ref="char:EOLhyphen"/>ous care took into conſideration the dan<g ref="char:EOLhyphen"/>ger
+<pb facs="tcp:156838:3"/>that were like to inſue, happy are we to eſcape ſuch a deſign.</p>
+            <p>His Majeſty taking into conſideration, the Government of his Navie Royall, his will and pleaſure was, That Sir <hi>John Pen<g ref="char:EOLhyphen"/>nington</hi> ſhould have the place of Admiral ſhip reſigned unto him, being againſt his Majeſties will and pleaſure, that the Earl of <hi>Warwicke</hi> ſhould enjoy that place any longer, and to that end and purpoſe did ſend a Meſſage to the Earl of <hi>Warwicke</hi> to give up his place, and that he ſho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld o<g ref="char:EOLhyphen"/>bey his ſpeciall Command, which was, that he ſhould reſign his place to S. <hi>John Pennington,</hi> the ſaid Sir <hi>John</hi> being neer unto him, expecting the Receit therof.</p>
+            <p>His Majeſty were likewiſe Reſolved, that he ſhould not enjoy that place any longer, but that He ſhould obey his Com<g ref="char:EOLhyphen"/>mand therin.</p>
+            <p>The Earl of <hi>Warwicke</hi> having received this Meſſage and Command from his Ma<g ref="char:EOLhyphen"/>jeſty, wherin was ſpecified his full Reſo<g ref="char:EOLhyphen"/>lution and intention, being much per<g ref="char:EOLhyphen"/>plexed, thinking and conceiving it a
+<pb facs="tcp:156838:4"/>matter of no ſmall conſequence, which he was entruſted with, being for the de<g ref="char:EOLhyphen"/>fence of HIs Majeſties Royall Perſon, and the ſafeguard of the whole Kingdom, knowing the integrity of his own heart both to His Majeſtie and the Parliament, he reſolved not to deſert that charge committed to his truſt, wherein God ſince his beginning hath proſpered him with ſuch happy and fortunate ſucceſſe; and therefore he ſet down his full Reſo<g ref="char:EOLhyphen"/>lution, that he would not reſigne that place, but to continue it; untill he ſhould be revoked by that Authoritie which hath entruſted him with it.</p>
+            <p>Which Reſolution he declared like<g ref="char:EOLhyphen"/>wiſe to all His Majeſties Captains, at a meeting which he had appointed for that purpoſe; and at the ſame time, they unanimouſly and cheerfully took the ſame Reſolution; taking many ſolemn Vowes and Proteſtations, to continue the ſame as long as breath remained in their bodies, and that they would for the per<g ref="char:EOLhyphen"/>formance thereof, ſeale it with their
+<pb facs="tcp:156838:4"/>deareſt blood; being a token and wit<g ref="char:EOLhyphen"/>neſſe of their fervent love and affection, which they beare both to their King and Country, vowing to maintain the ſame to the utmoſt of their power.</p>
+            <p>And that His Perſon which the Ho<g ref="char:EOLhyphen"/>nourable Houſe of Peeres and Commons, had ſet over them to be their Governour, meaning the Right Honourable the Earl of <hi>WARWICK,</hi> ſhould never take the leaſt blemiſh, ſo long as they were able to performe any ſervice to his Lordſhip, the Reſolution of them being ſo conſtant and true, that ſuch men of ſpirits were never known, which we muſt all attribute to the great God of Heaven and Earth only. So I beſeech the Lord of Heaven to con<g ref="char:EOLhyphen"/>tinue them in the ſame Minds and Re<g ref="char:EOLhyphen"/>ſolutions, which they have moſt faithful<g ref="char:EOLhyphen"/>ly and unanimouſly expreſſed to the vaſt world, in generall,</p>
+            <p>All Nations admiring at the Courage of <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſe men, thinking it to be the won<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ll work of God, that ſuch courage <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truth <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver into the heart of
+<pb facs="tcp:156838:5"/>man, but we muſt think and conceive with our ſelves, that it was the Lords will and pleaſure, to endue thoſe Chri<g ref="char:EOLhyphen"/>ſtian hearts with ſuch gracious and om<g ref="char:EOLhyphen"/>nipotent gifts.</p>
+            <p>Thus may we all ſee, the miraculous Actions and Proceedings which the Lord entruſteth with his ſervants.</p>
+            <p>The Proceedings in <hi>Yorkſhire and Lan<g ref="char:EOLhyphen"/>caſhire the laſt week,</hi> were very tumultuous, there appearing divers in a warlike man<g ref="char:EOLhyphen"/>mer in thoſe Counties. <hi>But praiſed be God, although wee have but little comfort here in</hi> England, <hi>yet we have moſt happy and ioyfull News from</hi> Ireland, <hi>the Earl of</hi> Ormond <hi>ha<g ref="char:EOLhyphen"/>ving fought a great Battell with the Rebels, putting above</hi> 2000. <hi>to the ſword, with little loſse, the which Letter was read in the Houſe of Commons on Saturday laſt, and Ordered to be forthwith Printed.</hi>
+            </p>
+            <closer>
+               <signed>Hen. Elſing Cler. Par. D. Com.</signed>
+
+               <signed> John Brown Cler. Parl.</signed>
+            </closer>
+            <postscript>
+               <p>Ordered that this be printed and publiſhed.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
